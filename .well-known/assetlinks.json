@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.burhan.studynotes",
-    "sha256_cert_fingerprints": ["F8:BE:40:BD:81:7B:87:B9:37:4C:CD:8F:E2:66:E5:91:F4:C2:06:24:3E:04:2B:A7:BF:F2:F8:B9:99:51:77:FE"]
+    "sha256_cert_fingerprints": ["EB:01:F7:02:B7:FD:24:6B:36:C5:F1:D3:15:84:8F:3A:ED:79:12:35:A4:D7:5F:80:E3:43:45:02:08:30:0B:DA"]
   }
 }]
