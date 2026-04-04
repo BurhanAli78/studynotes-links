@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.burhan.studynotes",
+    "sha256_cert_fingerprints": ["F8:BE:40:BD:81:7B:87:B9:37:4C:CD:8F:E2:66:E5:91:F4:C2:06:24:3E:04:2B:A7:BF:F2:F8:B9:99:51:77:FE"]
+  }
+}]
