@@ -1,8 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.burhan.studynotes",
-    "sha256_cert_fingerprints": ["EB:01:F7:02:B7:FD:24:6B:36:C5:F1:D3:15:84:8F:3A:ED:79:12:35:A4:D7:5F:80:E3:43:45:02:08:30:0B:DA"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.burhan.studynotes",
+      "sha256_cert_fingerprints": [
+        "2C:7E:6A:24:68:D2:E6:1F:8B:6B:8D:35:64:9E:73:4A:C3:D6:32:87:05:41:E8:65:FC:C8:9F:D9:D8:F4:6F:9B"
+      ]
+    }
   }
-}]
+]
